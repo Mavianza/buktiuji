@@ -1,0 +1,1 @@
+{"schemaVersion":1,"title":"Pengujian Portal Praktikum","cases":[{"id":"unggah-tugas","title":"Unggah berkas tugas yang valid","feature":"Pengumpulan","precondition":"Mahasiswa telah login","steps":["Buka halaman tugas","Pilih berkas PDF","Tekan Unggah"],"expected":"Berkas tersimpan satu kali dan nama berkas tampil."}],"runs":[],"updatedAt":"2026-11-25T00:00:00.000Z"}
